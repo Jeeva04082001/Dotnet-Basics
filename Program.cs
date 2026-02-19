@@ -1,21 +1,21 @@
-﻿// 18-02-2025
+﻿18-02-2025
 
-// using System;
+using System;
 
-// class Program
-// {
-//     static void Main()
-//     {
-//         Console.WriteLine("Heeloooodjc");
-//         System.Console.WriteLine("jeee");
-//     }
-// }
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Heeloooodjc");
+        System.Console.WriteLine("jeee");
+    }
+}
 
 
-// class Program
-// {
-//     static void Main()
-//     {
-//         Variables.Run();
-//     }
-// }
+class Program
+{
+    static void Main()
+    {
+        Variables.Run();
+    }
+}
