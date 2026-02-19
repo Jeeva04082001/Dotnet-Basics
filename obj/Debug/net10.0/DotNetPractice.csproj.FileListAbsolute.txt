@@ -12,3 +12,4 @@ C:\Jeeva\PractiseDotNet\DotNetPractice\obj\Debug\net10.0\refint\DotNetPractice.d
 C:\Jeeva\PractiseDotNet\DotNetPractice\obj\Debug\net10.0\DotNetPractice.pdb
 C:\Jeeva\PractiseDotNet\DotNetPractice\obj\Debug\net10.0\DotNetPractice.genruntimeconfig.cache
 C:\Jeeva\PractiseDotNet\DotNetPractice\obj\Debug\net10.0\ref\DotNetPractice.dll
+C:\Jeeva\PractiseDotNet\DotNetPractice\obj\Debug\net10.0\DotNetPractice.sourcelink.json
